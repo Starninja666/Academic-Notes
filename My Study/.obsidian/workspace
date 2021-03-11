@@ -1,0 +1,92 @@
+{
+  "main": {
+    "id": "9fdc71abb198c7f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "3810715f3baed073",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9ddb4016b4c44276",
+    "type": "split",
+    "children": [
+      {
+        "id": "661eacaeb50c4d31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42180f365844c6a6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7b1ee95d7d5eee41",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8342b3f9fbb594b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "b53c2e177ad5c31a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a37ea30302240e7e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Fundamental concepts of physics/Kinetic theory of Gases.md",
+    "Fundamental concepts of physics/HC Verma Part 2.md",
+    "Kinetic theory of Gases.md",
+    "HC Verma Part 2.md",
+    "Untitled.md",
+    "Kinetic theory of gases - HC Verma.md"
+  ]
+}
